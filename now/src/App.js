@@ -5,6 +5,7 @@ import './App.css';
 
 const AnotherPage = () => <h1>Another Page</h1>;
 const NotFound = () => <h1>404 Not Found</h1>;
+
 class Home extends Component {
   state = {
     response: '',
